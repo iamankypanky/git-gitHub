@@ -1,3 +1,3 @@
 # git-gitHub
 
-# Experiment time
+# Experiments time
